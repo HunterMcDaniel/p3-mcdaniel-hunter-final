@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+header{
+  background-color: #C5351B;
+  color: white;
+  text-align: center;
+  padding: 5%;
+}
+
+header h1{
+  font-size: 3em;
+}
+
+main{
+  margin-top: 2%;
+  text-align: center;
+}
+
+footer{
+  background-color: #C5351B;
+  color: white;
+  text-align: center;
+  padding: 5%;
+  margin-top: 3%;
+}
